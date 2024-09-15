@@ -1,5 +1,6 @@
 #include "file.hpp"
 
+#include <boost/locale.hpp>
 #include <cassert>
 #include <components/misc/windows.hpp>
 #include <stdexcept>
